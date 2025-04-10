@@ -6,7 +6,7 @@ This project analyzes the Olist E-Commerce dataset to extract valuable insights 
 
 **data_cleaning.sql**: SQL queries used for data cleaning, such as removing duplicates, handling missing values, and correcting invalid data.
 
-****data_analysis.sql**: SQL queries used for analysis, including calculations for revenue, top-selling products, top categories, customer spending, and seller performance.
+**data_analysis.sql**: SQL queries used for analysis, including calculations for revenue, top-selling products, top categories, customer spending, and seller performance.
 
 **screenshots**: Screenshots of query results, including data cleaning and analysis outputs.
 
